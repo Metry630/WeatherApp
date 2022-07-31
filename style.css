@@ -1,0 +1,8 @@
+#icon {
+    width: 400px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
